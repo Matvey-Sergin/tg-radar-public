@@ -1,0 +1,36 @@
+# Local secrets
+.env
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+nexus.lock
+spain_relocation.lock
+
+# Runtime output
+logs/
+backups/
+archive/
+output.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

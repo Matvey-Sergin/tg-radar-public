@@ -1,0 +1,6 @@
+aiogram>=3.0
+aiosqlite>=0.19
+groq>=0.9
+pyrogram>=2.0
+python-dotenv>=1.0
+tgcrypto>=1.2
